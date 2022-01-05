@@ -34,7 +34,10 @@
 
 
 ## SUPPORT GROUP
-   - 𝗝𝗢𝗜𝗡 [𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙲𝙷𝙰𝚃](https://t.me/ArkhamWolves) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
+   - 𝗝𝗢𝗜𝗡 [𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗚𝗥𝗢𝗨𝗣](https://t.me/ArkhamWolves) 𝗙𝗢𝗥 𝗢𝗨𝗥.𝗘𝗙𝗙𝗢𝗥𝗧𝗦
+
+## - 𝗝𝗢𝗜𝗡 [𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗖𝗛𝗔𝗧](https://https://t.me/ARKHAMxGOD) 𝗙𝗢𝗥 𝗔𝗡𝗬
+𝗤𝗨𝗘𝗥𝗬
 
 ## Credits
    - Thanks to [Yukki Team](https://t.me/officialyukki).
