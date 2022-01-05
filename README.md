@@ -33,11 +33,11 @@
 ### 𝗨𝗦𝗘 𝗔𝗡𝗬 𝗥𝗔𝗡𝗗𝗢𝗠 𝗔𝗣𝗜 𝗜𝗗 𝗔𝗡𝗗 𝗛𝗔𝗦𝗛 𝗪𝗛𝗜𝗟𝗘 𝗗𝗘𝗣𝗟𝗢𝗬𝗜𝗡𝗚
 
 
-## SUPPORT GROUP
-   - 𝗝𝗢𝗜𝗡 [𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗚𝗥𝗢𝗨𝗣](https://t.me/ArkhamWolves) 𝗙𝗢𝗥 𝗢𝗨𝗥.𝗘𝗙𝗙𝗢𝗥𝗧𝗦
+## OFFICIAL GROUP
+   - 𝗝𝗢𝗜𝗡 [ᴏғғɪᴄɪᴀʟ ᴄʜᴀᴛ](https://t.me/ArkhamWolves) 𝗙𝗢𝗥 𝗢𝗨𝗥 𝗘𝗙𝗙𝗢𝗥𝗧𝗦
 
-## - 𝗝𝗢𝗜𝗡 [𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗖𝗛𝗔𝗧](https://https://t.me/ARKHAMxGOD) 𝗙𝗢𝗥 𝗔𝗡𝗬
-𝗤𝗨𝗘𝗥𝗬
+## SUPPORT CHAT
+ - 𝗝𝗢𝗜𝗡 [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://https://t.me/ARKHAMxGOD) 𝗙𝗢𝗥 𝗔𝗡𝗬 𝗤𝗨𝗘𝗥𝗬
 
 ## Credits
    - Thanks to [Yukki Team](https://t.me/officialyukki).
