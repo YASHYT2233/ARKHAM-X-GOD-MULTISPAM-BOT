@@ -14,6 +14,13 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YASHYT2233/Yash-Multispam-Bot)
 
+## String Session FOR  BOT AND IDS 
+
+
+   - BOT STRING [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@YASHYT2233/Arkham-X-God#main.py)
+   - IDS STRING [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@YASHYT2233/Arkham-X-God#main.py)
+
+
 ## 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒:-
 
 :RAID, REPLYRAID, DREPLYRAID, BIGSPAM, SPAM....
