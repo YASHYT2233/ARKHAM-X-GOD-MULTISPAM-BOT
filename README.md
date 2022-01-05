@@ -12,7 +12,7 @@
 
 ## 🚀 Deploy on Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://git.heroku.com/yash-spambot-op.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgit.heroku.com%2Fyash-spambot-op.git)
 
 ## String Session FOR  BOT AND IDS 
 
