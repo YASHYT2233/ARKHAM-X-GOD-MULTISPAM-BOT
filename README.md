@@ -21,7 +21,21 @@
    - IDS STRING [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@YASHYT2233/Arkham-X-God#main.py)
 
 
-## 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒:-
+## FEATURES
 
-:RAID, REPLYRAID, DREPLYRAID, BIGSPAM, SPAM....
+   - 𝙳𝙴𝙿𝙻𝙾𝚈 𝚄𝙿𝚃𝙾 30 𝙱𝙾𝚃𝚂 𝙰𝚃 𝙰 𝚂𝙰𝙼𝙴 𝚃𝙸𝙼𝙴
+
+   - 𝖥𝖠𝖲𝖳 𝖠𝖭𝖣 𝖤𝖥𝖥𝖨𝖢𝖨𝖤𝖭𝖳
+
+   - REPLYRAID , RAID PLUGIN , HANDLER *
+
+
+### 𝗨𝗦𝗘 𝗔𝗡𝗬 𝗥𝗔𝗡𝗗𝗢𝗠 𝗔𝗣𝗜 𝗜𝗗 𝗔𝗡𝗗 𝗛𝗔𝗦𝗛 𝗪𝗛𝗜𝗟𝗘 𝗗𝗘𝗣𝗟𝗢𝗬𝗜𝗡𝗚
+
+
+## SUPPORT GROUP
+   - 𝗝𝗢𝗜𝗡 [𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙲𝙷𝙰𝚃](https://t.me/ArkhamWolves) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
+
+## Credits
+   - Thanks to [Yukki Team](https://t.me/officialyukki).
 
