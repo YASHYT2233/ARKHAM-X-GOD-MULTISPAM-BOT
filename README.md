@@ -12,8 +12,7 @@
 
 ## 🚀 Deploy on Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YASHYT2233/ARKHAM-X-GOD-MULTISPAM-BOT
-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://git.heroku.com/yash-spambot-op.git)
 
 ## String Session FOR  BOT AND IDS 
 
