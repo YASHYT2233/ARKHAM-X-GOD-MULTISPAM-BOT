@@ -2021,7 +2021,7 @@ text = """
 
 print(text)
 print("")
-print("𝗔𝗥𝗞𝗛𝗔𝗠𝘅𝗚𝗢𝗗 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗥𝗘𝗔𝗗𝗬 𝗙𝗢𝗥 𝗨𝗦𝗘 𝗡𝗢𝗪 𝗪𝗛𝗔𝗧 𝗔𝗥𝗘 𝗬𝗢𝗨 𝗟𝗢𝗢𝗞𝗜𝗡𝗚 𝗔𝗧 𝗚𝗢 𝗔𝗡𝗗 𝗗𝗢 *ping")
+print("𝗔𝗥𝗞𝗛𝗔𝗠𝘅𝗚𝗢𝗗 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗥𝗘𝗔𝗗𝗬 𝗙𝗢𝗥 𝗨𝗦𝗘 𝗖𝗛𝗘𝗖𝗞 𝗕𝗬 𝗗𝗢𝗜𝗡𝗚 *ping")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
