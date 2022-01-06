@@ -1016,7 +1016,6 @@ async def gifspam(e, smex):
 @raj.on(events.NewMessage(incoming=True, pattern=r"\*bio"))
 @put.on(events.NewMessage(incoming=True, pattern=r"\*bio"))
 @eag.on(events.NewMessage(incoming=True, pattern=r"\*bio"))
-@gle.on(events.NewMessage(incoming=True, pattern=r"\*bio"))
 @wal.on(events.NewMessage(incoming=True, pattern=r"\*bio"))
 @aaa.on(events.NewMessage(incoming=True, pattern=r"\*bio"))
 @boy.on(events.NewMessage(incoming=True, pattern=r"\*bio"))
