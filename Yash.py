@@ -1559,7 +1559,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "Activated Reply Raid"
+            text = "OK SIR WE WILL FUCK THIS BITCH YOU ENJOY THE SHOW..."
             await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -1624,7 +1624,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "De-Activated Reply Raid"
+            text = "OK MAN WE WILL STOP NOW KALP GAYA HAI BECHARA..."
             await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -1635,7 +1635,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "De-Activated Reply Raid"
+            text = "OK MAN WE WILL STOP NOW KALP GAYA HAI BECHARA..."
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1844,7 +1844,7 @@ async def ping(e):
 @boy.on(events.NewMessage(incoming=True, pattern=r"\*restart"))
 async def restart(e):
     if e.sender_id in SMEX_USERS:
-        text = "2𝐌𝐈𝐍 𝐖𝐀𝐈𝐓 𝐏𝐑𝐎 𝐁𝐎𝐓 𝐑𝐄𝐁𝐎𝐎𝐓𝐈𝐍𝐆...\n\nPlease wait till it reboots..."
+        text = "2𝐌𝐈𝐍 𝐖𝐀𝐈𝐓 𝐏𝐑𝐎 𝐁𝐎𝐓 𝐑𝐄𝐁𝐎𝐎𝐓𝐈𝐍𝐆...\n\nNow Wait Till Piro Bot Is Rebooting..."
         await e.reply(text, parse_mode=None, link_preview=None )
         try:
             await idk.disconnect()
@@ -2007,7 +2007,7 @@ async def restart(e):
 
 async def help(e):
     if e.sender_id in SMEX_USERS:
-       text = "𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀\n\n𝙐𝙩𝙞𝙡𝙨 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n*ping\n*restart\n\n𝙐𝙨𝙚𝙧𝙗𝙤𝙩 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n*bio\n*join\n*pjoin\n*leave\n\n𝙎𝙥𝙖𝙢 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n*delayspam\n*bigspam\n*raid\n*replyraid\n*dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
+       text = "⛓𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀⛓\n\n⚜𝙐𝙩𝙞𝙡𝙨 𝘾𝙤𝙢𝙢𝙖𝙣𝙙⚜:\n*ping\n*restart\n\n🔰𝙐𝙨𝙚𝙧𝙗𝙤𝙩 𝘾𝙤𝙢𝙢𝙖𝙣𝙙🔰:\n*bio\n*join\n*pjoin\n*leave\n\n🛡𝙎𝙥𝙖𝙢 𝘾𝙤𝙢𝙢𝙖𝙣𝙙🛡:\n*delayspam\n*bigspam\n*raid\n*replyraid\n*dreplyraid\n\n\nIf You Dont Understand How To Use This Bot Then Dont Use Your Noob Mind Just Contact @YashOP_XD"
        await e.reply(text, parse_mode=None, link_preview=None )
 
         
@@ -2021,7 +2021,7 @@ text = """
 
 print(text)
 print("")
-print("𝗔𝗥𝗞𝗛𝗔𝗠𝘅𝗚𝗢𝗗 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗥𝗘𝗔𝗗𝗬 𝗙𝗢𝗥 𝗨𝗦𝗘")
+print("𝗔𝗥𝗞𝗛𝗔𝗠𝘅𝗚𝗢𝗗 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗥𝗘𝗔𝗗𝗬 𝗙𝗢𝗥 𝗨𝗦𝗘 𝗡𝗢𝗪 𝗪𝗛𝗔𝗧 𝗔𝗥𝗘 𝗬𝗢𝗨 𝗟𝗢𝗢𝗞𝗜𝗡𝗚 𝗔𝗧 𝗚𝗢 𝗔𝗡𝗗 𝗗𝗢 *ping")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
