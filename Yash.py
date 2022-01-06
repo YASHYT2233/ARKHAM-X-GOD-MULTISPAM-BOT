@@ -1569,7 +1569,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "Activated Reply Raid"
+            text = "OK SIR WE WILL FUCK THIS BITCH YOU ENJOY THE SHOW..."
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
