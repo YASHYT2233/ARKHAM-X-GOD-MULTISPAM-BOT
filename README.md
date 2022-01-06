@@ -12,7 +12,7 @@
 
 ## 🚀 Deploy on Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://git.heroku.com/arkham-x-god.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YASHYT2233/ARKHAM-X-GOD-MULTISPAM-BOT)
 
 ## String Session FOR  BOT AND IDS 
 
