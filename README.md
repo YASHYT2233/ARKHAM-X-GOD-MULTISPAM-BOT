@@ -18,7 +18,7 @@
 
 
    - BOT STRING [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@YASHYT2233/Arkham-X-God#main.py)
-   - IDS STRING [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@YASHYT2233/Arkham-X-God#main.py)
+   - IDS STRING [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@YASHYT33/Arkham-X-God#main.py)
 
 
 ## FEATURES
